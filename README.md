@@ -21,3 +21,10 @@ Learning to use GitPod and GitHub typing in TERMINAL.
 
 "touch" command creates a new file
 "mkdir" One Two Three makes three files 
+
+git add <file name> adds a specific file with saved chages
+git add . adds all files with saved changes
+
+git commit -m "your commit message" commit's the added changes to the local repo
+
+git push pushes the commited changes from your local repo to github
