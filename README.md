@@ -22,9 +22,29 @@ Learning to use GitPod and GitHub typing in TERMINAL.
 "touch" command creates a new file
 "mkdir" One Two Three makes three files 
 
-git add <file name> adds a specific file with saved chages
-git add . adds all files with saved changes
+9- git add <file name> adds a specific file with saved chages
+9- git add . adds all files with saved changes
 
-git commit -m "your commit message" commit's the added changes to the local repo
+10- git commit -m "your commit message" commit's the added changes to the local repo
 
-git push pushes the commited changes from your local repo to github
+11- git push pushes the commited changes from your local repo to github
+
+12- git rm --cached <file_name>
+
+EXAMPLE
+echo "password" >> password.txt
+echo "This is an extra line" >> story.txt
+git status 
+-- will show untracked in red -- 
+ls - a 
+-- will show all files -- 
+git add . 
+-- will track both files now -- 
+git status 
+-- will show the files that are ready to be committed in green --
+git rm --cached password.txt 
+-- this will remove password.txt file --
+git status
+-- will only now show the story.txt file to be committed--
+git commit -m "added more text to the story"
+-- now its tracked--
