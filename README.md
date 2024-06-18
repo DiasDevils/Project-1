@@ -22,14 +22,19 @@ Learning to use GitPod and GitHub typing in TERMINAL.
 "touch" command creates a new file
 "mkdir" One Two Three makes three files 
 
-9- git add <file name> adds a specific file with saved chages
-9- git add . adds all files with saved changes
+9- git add <file name>-- adds a specific file with saved chages
+9- git add . -- adds all files with saved changes
 
-10- git commit -m "your commit message" commit's the added changes to the local repo
+10- git commit -m "your commit message" -- commit's the added changes to the local repo
 
-11- git push pushes the commited changes from your local repo to github
+11- git push -- pushes the commited changes from your local repo to github
 
-12- git rm --cached <file_name>
+12- git rm --cached <file_name> -- removed the file you dont want to commit
+
+13- git dif story.txt --  shows what is different from a previous to the new file)
+
+14- git log -- shows the histry of the changes and when
+
 
 EXAMPLE
 echo "password" >> password.txt
