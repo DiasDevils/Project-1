@@ -8,7 +8,7 @@ Learning to use GitPod and GitHub typing in TERMINAL.
 
 4- Typing "git status" in TERMINAL displays the status tracked or untracked of the files being used
 
-5- Typing  "git init"   in TERMINAL
+5- Typing  "git init"   in TERMINAL shows the respositry open
 
 6- Typing "git add README.MD" tracking README 
 6- Typing  "git commit -m "Initial Commit" to save in README file in TERMINAL
