@@ -60,3 +60,7 @@ git status
 -- will only now show the story.txt file to be committed--
 git commit -m "added more text to the story"
 -- now its tracked--
+
+example of a good README.md
+https://github.com/Code-Institute-Solutions/readme-template
+
