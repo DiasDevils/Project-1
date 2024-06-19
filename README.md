@@ -1,4 +1,10 @@
-Learning to use GitPod and GitHub typing in TERMINAL.
+My learning Project.
+This learning is how to use GitPod and GitHub typing in TERMINAL.
+
+Using HTML and CSS.
+Using terminal with various git commands.
+
+See below discription of commands;
 
 1- Typing "ls"  displays files in terminal
 
