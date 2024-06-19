@@ -64,3 +64,5 @@ git commit -m "added more text to the story"
 example of a good README.md
 https://github.com/Code-Institute-Solutions/readme-template
 
+a tool to use for screenshots https://ui.dev/amiresponsive
+
